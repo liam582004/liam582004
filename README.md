@@ -1,4 +1,4 @@
-                                ## Hi there, i'm Loc 👋
+##                                 Hi there, i'm Loc 👋
 
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: hohungloc58@gmil.com
 
--->Connect with me: https://web.facebook.com/hungloc.ho.58
+## Connect with me: https://web.facebook.com/hungloc.ho.58
