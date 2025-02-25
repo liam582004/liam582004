@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 
@@ -29,3 +30,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/dist/snake.svg" />
+</p>
