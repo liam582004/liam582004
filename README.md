@@ -30,8 +30,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<liam582004
->/<liam582004
->/dist/snake.svg" />
-</p>
+![Snake animation](https://github.com/liam2004/liam2004/blob/output/github-contribution-grid-snake.svg)
+
