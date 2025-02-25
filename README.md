@@ -31,5 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/dist/snake.svg" />
+  <img src="https://raw.githubusercontent.com/<liam582004
+>/<liam582004
+>/dist/snake.svg" />
 </p>
