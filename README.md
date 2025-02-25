@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Loc 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duylam&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
-</p>
+
 
 ## 🚀 About Me
 - 🎓 I’m a junior student at Sai Gon University.
@@ -17,17 +15,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duylam&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duylam&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duylam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ## 🌎 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img src="https://web.facebook.com/hungloc.ho.58?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://web.facebook.com/hungloc.ho.58" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
